@@ -14,7 +14,7 @@
     <name>naming-server</name>
     <description>naming-server</description>
     <properties>
-        <java.version>19</java.version>
+        <java.version>17</java.version>
         <spring-cloud.version>2023.0.1</spring-cloud.version>
     </properties>
     <dependencies>
